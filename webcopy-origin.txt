@@ -1,0 +1,976 @@
+Uri: https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\gh\mcstudios\glightbox\dist\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.2
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\npm\@phosphor-icons\web@2.1-1.2
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.2/src/duotone/Phosphor-Duotone.svg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\npm\@phosphor-icons\web@2.1.2\src\duotone\Phosphor-Duotone.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.2/src/duotone/Phosphor-Duotone.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\npm\@phosphor-icons\web@2.1.2\src\duotone\Phosphor-Duotone.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.2/src/duotone/Phosphor-Duotone.woff
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\npm\@phosphor-icons\web@2.1.2\src\duotone\Phosphor-Duotone.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.2/src/duotone/Phosphor-Duotone.woff2
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\npm\@phosphor-icons\web@2.1.2\src\duotone\Phosphor-Duotone.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.2/src/duotone/style.css
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\npm\@phosphor-icons\web@2.1.2\src\duotone\style.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\npm\glightbox\dist\css\glightbox.min.css
+Content Type: text/css
+
+Uri: https://ferlox-html-pi.vercel.app/
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/2480297a0dab5100f7bb.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\2480297a0dab5100f7bb.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/404.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\404.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/545f96d07b33c99509ca.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\545f96d07b33c99509ca.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/about.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\about.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/appointment.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\appointment.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/assets/css/index.css
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\css\index.css
+Content Type: text/css
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about-bg-video.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about-bg-video.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about-shape1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about-shape1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about-shape2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about-shape2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/about/about6.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\about\about6.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/arrow-down.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\arrow-down.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/award.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\award.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner-doctors.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner-doctors.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner-slide1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner-slide1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner-slide2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner-slide2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner-slide3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner-slide3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner-slide4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner-slide4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner-slide5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner-slide5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner-slide6.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner-slide6.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner-slide7.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner-slide7.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner-slide8.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner-slide8.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/banner/banner6.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\banner\banner6.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog-classic1.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog-classic1.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog-classic2.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog-classic2.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog-classic3.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog-classic3.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog-details.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog-details.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog1.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog10.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog10.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog11.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog11.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog12.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog12.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog13.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog13.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog14.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog14.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog15.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog15.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog16.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog16.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog17.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog17.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog18.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog18.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog19.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog19.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog2.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog20.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog20.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog21.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog21.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog22.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog22.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog23.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog23.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog6.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog6.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog7.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog7.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog8.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog8.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/blog/blog9.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\blog\blog9.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand10.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand10.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand11.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand11.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand12.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand12.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand6.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand6.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand7.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand7.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand8.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand8.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/brand/brand9.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\brand\brand9.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/buyer/buyer1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\buyer\buyer1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/buyer/buyer2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\buyer\buyer2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/buyer/buyer3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\buyer\buyer3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/buyer/buyer4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\buyer\buyer4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/buyer/buyer5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\buyer\buyer5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/buyer/buyer6.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\buyer\buyer6.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/buyer/buyer7.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\buyer\buyer7.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/buyer/buyer8.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\buyer\buyer8.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case-details1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case-details1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case-details2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case-details2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case1.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case1.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case10.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case10.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case11.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case11.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case12.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case12.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case2.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case2.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case3.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case3.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case4.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case4.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case6.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case6.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case7.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case7.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case8.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case8.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/case/case9.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\case\case9.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/choose2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\choose2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/choose3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\choose3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/choose4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\choose4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/chsose1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\chsose1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/contact.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\contact.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/Cricle.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\Cricle.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/favicon.ico
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/features1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\features1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/features2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\features2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/features3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\features3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/features4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\features4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/fertility.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\fertility.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/flower.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\flower.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary10.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary10.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary6.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary6.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary7.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary7.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary8.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary8.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/gallary9.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\gallary9.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/home-3-banner-video-image.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\home-3-banner-video-image.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/hormone.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\hormone.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/img1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\img1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/img2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\img2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/img3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\img3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/logo.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/logo2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\logo2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/menstrual.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\menstrual.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/next-project.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\next-project.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/patient1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\patient1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/patient2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\patient2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/patient3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\patient3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/prental.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\prental.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/prev-project.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\prev-project.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project-details2.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project-details2.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project-details3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project-details3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project1.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project1.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project2.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project2.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project3.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project3.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project4.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project4.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project5.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project5.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project6.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project6.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project7.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project7.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project8.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project8.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/project/project9.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\project\project9.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/quotes.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\quotes.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/quotes2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\quotes2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/recent-post1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\recent-post1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/recent-post2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\recent-post2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/recent-post3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\recent-post3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/services/service-details.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\services\service-details.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/services/service1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\services\service1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/services/service3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\services\service3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/services/service4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\services\service4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/services/service5.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\services\service5.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/services/service6.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\services\service6.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/services/service7.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\services\service7.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/services/service8.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\services\service8.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/short-logo.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\short-logo.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/short-logo2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\short-logo2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/stories-bg.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\stories-bg.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/team/team1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\team\team1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/team/team2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\team\team2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/team/team3.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\team\team3.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/team/team4.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\team\team4.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/team/team5.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\team\team5.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/team/team6.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\team\team6.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/team/team7.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\team\team7.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/team/team8.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\team\team8.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/team/team9.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\team\team9.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/test-tube.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\test-tube.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/testimonial.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\testimonial.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/video-bg.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/work1.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\work1.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/assets/images/work2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\assets\images\work2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/b6233730126357732d71.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\b6233730126357732d71.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/bdc5b90ad29341f9194c.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\bdc5b90ad29341f9194c.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/blog-classic.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\blog-classic.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/blog-details.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\blog-details.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/blog.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\blog.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/c8b4da1962b1b26f5dc6.jpg
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\c8b4da1962b1b26f5dc6.jpg
+Content Type: image/jpeg
+
+Uri: https://ferlox-html-pi.vercel.app/case-studies-details.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\case-studies-details.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/case-studies.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\case-studies.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/contact.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\contact.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/f470b6d19257a1b91ac2.png
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\f470b6d19257a1b91ac2.png
+Content Type: image/png
+
+Uri: https://ferlox-html-pi.vercel.app/faqs.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\faqs.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/gallery.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\gallery.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/home-2.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\home-2.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/home-3.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\home-3.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/home-4.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\home-4.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/home-5.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\home-5.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/home-6.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\home-6.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/index.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/index.js
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\index.js
+Content Type: application/javascript
+
+Uri: https://ferlox-html-pi.vercel.app/price.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\price.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/project-details.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\project-details.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/project.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\project.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/services-details.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\services-details.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/services.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\services.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/sign-in.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\sign-in.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/sign-up.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\sign-up.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/team-member.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\team-member.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/team.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\team.html
+Content Type: text/html
+
+Uri: https://ferlox-html-pi.vercel.app/testimonial.html
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\testimonial.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQiA8.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXiA8.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XiA8.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEammT.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbWmT.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCp6KVjbNBYlgoKejYHtGyI.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\ubuntu\v21\4iCp6KVjbNBYlgoKejYHtGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCp6KVjbNBYlgoKejZftWyI.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\ubuntu\v21\4iCp6KVjbNBYlgoKejZftWyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCp6KVjbNBYlgoKejZPsmyI.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\ubuntu\v21\4iCp6KVjbNBYlgoKejZPsmyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCs6KVjbNBYlgo6eA.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\ubuntu\v21\4iCs6KVjbNBYlgo6eA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCu6KVjbNBYlgoKeg7z.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\ubuntu\v21\4iCu6KVjbNBYlgoKeg7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoC1CzTtw.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\ubuntu\v21\4iCv6KVjbNBYlgoC1CzTtw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoCjC3Ttw.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\ubuntu\v21\4iCv6KVjbNBYlgoCjC3Ttw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v21/4iCv6KVjbNBYlgoCxCvTtw.ttf
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\s\ubuntu\v21\4iCv6KVjbNBYlgoCxCvTtw.ttf
+Content Type: font/ttf
+
+Uri: https://github.hubspot.com/odometer/odometer.js
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\odometer\odometer.js
+Content Type: application/javascript
+
+Uri: https://github.hubspot.com/odometer/themes/odometer-theme-default.css
+File Name: C:\Users\timir\Desktop\ferlox-html-pi.vercel.app\odometer\themes\odometer-theme-default.css
+Content Type: text/css
+
